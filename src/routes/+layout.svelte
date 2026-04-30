@@ -12,7 +12,7 @@
 
 <svelte:head>
 	<link rel="icon" href={favicon} />
-	<title>Duckylib App</title>
+	<title>Spoofify Home</title>
 </svelte:head>
 
 <Website options={{ theme: getTheme() }}>
